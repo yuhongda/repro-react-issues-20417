@@ -23,7 +23,7 @@
     "@snowpack/plugin-typescript": "^1.2.1",
     "postcss": "^8.0.6",
     "postcss-cli": "^7.1.2",
-    "snowpack": "^3.0.13",
+    "snowpack": "3.0.13",
     "snowpack-plugin-hmr-appender": "^0.0.3",
     "snowpack-plugin-less": "^1.0.2",
     "snowpack-plugin-less-y": "^0.0.1",
