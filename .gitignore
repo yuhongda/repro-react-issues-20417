@@ -1,0 +1,75 @@
+# intellij IDEA
+.idea
+.idea/*
+*.iml
+
+# eclipse
+.metadata
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.project
+.classpath
+
+# build
+target
+target/*
+out
+out/*
+
+# Java Compiled class file
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+# dist
+build
+
+
+# Log file
+*.log
+*.log_*
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# evosuite
+.evosuite
+evo
+evo/*
+
+node_modules/
+/.vscode
