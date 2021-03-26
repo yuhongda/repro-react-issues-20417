@@ -35,7 +35,6 @@ module.exports = {
   exclude: ['**/__tests__/*', '**/*.@(spec|test).@(js|mjs)'],
   alias: {
     '@': './src',
-    '@scf/ui': '@scf/ui/lib',
   },
   mount: {
     src: '/_dist_',

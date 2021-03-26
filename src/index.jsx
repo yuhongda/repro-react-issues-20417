@@ -6,7 +6,3 @@ const render = (AppContainer) => {
   ReactDOM.render(<AppContainer />, document.getElementById('app'));
 };
 render(App);
-
-if (import.meta.hot) {
-  import.meta.hot.accept();
-}
